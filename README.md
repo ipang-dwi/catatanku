@@ -1,0 +1,2 @@
+# catatanku
+Simple JS Blog
